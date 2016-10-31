@@ -1,0 +1,74 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+%Version for spanish users, by dgarhdez
+
+\documentclass[11pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+
+
+% moderncv themes
+\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{green}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Dr. Daniel}{Miller Runfola}
+\address{William and Mary}{Institute for the Theory and Practice of International Relations}{AidData}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{508-316-9109}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{dsmillerrunfol@wm.edu}                               % optional, remove / comment the line if not wanted
+%\homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{Dr. Yichun Xie}{Sustainability}
+\date{\today}
+\opening{Dear Editors and Dr. Xie,}
+\closing{Thank you for your time, your many contributions to the field, and for your consideration,}
+         % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+\makelettertitle
+
+We write you to submit the attached work for consideration in Sustainability, for the special issue titled \textit{Sustainable Ecosystems and Society in the Context of Big and New Data}.  This is an original piece, and is not being submitted to or considered for publication by any other outlet.  It is our earnest hope that this piece will aid in laying out the potential and challenges for using newly derived spatial information on climate relevant international aid - in conjunction with many existing, satellite-derived products - to better understand human-driven causal impacts on the carbon cycle.  Substantively, this work was performed in conjunction with the World Bank's independent evaluation group to analyze the effectiveness of it's environmental safeguards, and beyond the academic implications this piece should also be of considerable interest to a broader policy audience that is currently reliant on either bottom-up or "gut instinct" approaches to large-scope strategic decisions regarding aid allocation.\\
+\vspace{4 mm}
+
+Relatively little attention has been given to the efficacy of climate-related aid, especially at the global scale.  The dataset presented here represents one of the first catalogues of where - and what type - of aid has been flowing to the developing world, enabling new types of causal analyses than have been historically possible.  We further implement a novel methodological strategy that allows for the estimation of impacts that may vary over geographic space - a necessity in the context of global-scope analyses.  Further, we highlight the nascent nature of research into globally-varying heterogeneous effects, and provide insight into potential next steps.
+\vspace{4 mm}
+
+
+\makeletterclosing
+
+\end{document}
+
+
+%% end of file `template.tex'.

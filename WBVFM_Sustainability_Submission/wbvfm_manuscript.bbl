@@ -1,0 +1,93 @@
+\begin{thebibliography}{-------}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Royal(2015)]{royal_united_2015}
+Royal, S.
+\newblock United {Nations} {Framework} {Convention} on {Climate} {Change}
+  {ADOPTION} {OF} {THE} {PARIS} {AGREEMENT}.,  2015.
+
+\bibitem[Nielson and Tierney(2003)]{nielson_delegation_2003}
+Nielson, D.L.; Tierney, M.J.
+\newblock Delegation to {International} {Organizations}: {Agency} {Theory} and
+  {World} {Bank} {Environmental} {Reform}.
+\newblock {\em International Organization} {\bf 2003}, {\em 57},~241--276.
+
+\bibitem[Gutner(2005)]{gutner_explaining_2005}
+Gutner, T.
+\newblock Explaining the {Gaps} between {Mandate} and {Performance}: {Agency}
+  {Theory} and {World} {Bank} {Environmental} {Reform}.
+\newblock {\em Global Environmental Politics} {\bf 2005}, {\em 5},~10--37.
+
+\bibitem[Willmott and Matsuura(2001)]{willmott_terrestrial_2001}
+Willmott, C.; Matsuura, K.
+\newblock Terrestrial {Air} {Temperature} and {Precipitation}: {Monthly} and
+  {Annual} {Time} {Series} (1950-1999),  2001.
+
+\bibitem[Saatchi \em{et~al.}(2011)Saatchi, Harris, Brown, Lefsky, Mitchard,
+  Salas, Zutta, Buermann, Lewis, Hagen, Petrova, White, Silman, and
+  Morel]{saatchi_benchmark_2011}
+Saatchi, S.S.; Harris, N.L.; Brown, S.; Lefsky, M.; Mitchard, E.T.A.; Salas,
+  W.; Zutta, B.R.; Buermann, W.; Lewis, S.L.; Hagen, S.; Petrova, S.; White,
+  L.; Silman, M.; Morel, A.
+\newblock Benchmark map of forest carbon stocks in tropical regions across
+  three continents.
+\newblock {\em Proceedings of the National Academy of Sciences} {\bf 2011},
+  {\em 108},~9899--9904.
+
+\bibitem[Ruesch and Gibbs(2008)]{ruesch_new_2008}
+Ruesch, A.; Gibbs, H.
+\newblock New {IPCC} {Tier}-1 {Global} {Biomass} {Carbon} {Map} {For} the
+  {Year} 2000.,  2008.
+
+\bibitem[Nelson and Chomitz(2011)]{nelson_effectiveness_2011}
+Nelson, A.; Chomitz, K.M.
+\newblock Effectiveness of {Strict} vs. {Multiple} {Use} {Protected} {Areas} in
+  {Reducing} {Tropical} {Forest} {Fires}: {A} {Global} {Analysis} {Using}
+  {Matching} {Methods}.
+\newblock {\em PLOS ONE} {\bf 2011}, {\em 6},~e22722.
+
+\bibitem[Andam \em{et~al.}(2008)Andam, Ferraro, Pfaff, Sanchez-Azofeifa, and
+  Robalino]{andam_measuring_2008}
+Andam, K.S.; Ferraro, P.J.; Pfaff, A.; Sanchez-Azofeifa, G.A.; Robalino, J.A.
+\newblock Measuring the effectiveness of protected area networks in reducing
+  deforestation.
+\newblock {\em Proceedings of the National Academy of Sciences} {\bf 2008},
+  {\em 105},~16089--16094.
+
+\bibitem[Getis and Ord(1992)]{getis_analysis_1992}
+Getis, A.; Ord, J.K.
+\newblock The {Analysis} of {Spatial} {Association} by {Use} of {Distance}
+  {Statistics}.
+\newblock {\em Geographical Analysis} {\bf 1992}, {\em 24},~189--206.
+
+\bibitem[Rubin(1997)]{rubin_estimating_1997}
+Rubin, D.B.
+\newblock Estimating {Causal} {Effects} from {Large} {Data} {Sets} {Using}
+  {Propensity} {Scores}.
+\newblock {\em Annals of Internal Medicine} {\bf 1997}, {\em 127},~757--763.
+
+\bibitem[Abbay and Rutten(2015)]{abbay_does_2015}
+Abbay, A.G.; Rutten, R.
+\newblock Does spatial proximity to small towns matter for rural livelihoods?
+  {A} propensity score matching analysis in {Ethiopia}.
+\newblock {\em Letters in Spatial and Resource Sciences} {\bf 2015}, pp. 1--21.
+
+\bibitem[Ho \em{et~al.}(2011)Ho, Imai, King, and Stuart]{ho_matchit:_2011}
+Ho, D.E.; Imai, K.; King, G.; Stuart, E.A.
+\newblock {MatchIt}: {Nonparametric} {Preprocessing} for {Parametric} {Causal}
+  {Inference}.
+\newblock {\em Journal of Statistical Software} {\bf 2011}, {\em 42},~1--28.
+
+\bibitem[Wheeler and Tiefelsdorf(2005)]{wheeler_multicollinearity_2005}
+Wheeler, D.; Tiefelsdorf, M.
+\newblock Multicollinearity and correlation among local regression coefficients
+  in geographically weighted regression.
+\newblock {\em Journal of Geographical Systems} {\bf 2005}, {\em 7},~161--187.
+
+\bibitem[Athey and Imbens(2015)]{athey_recursive_2015}
+Athey, S.; Imbens, G.
+\newblock Recursive {Partitioning} for {Heterogeneous} {Causal} {Effects}.
+\newblock {\em arXiv:1504.01132 [stat]} {\bf 2015}.
+\newblock arXiv: 1504.01132.
+
+\end{thebibliography}
