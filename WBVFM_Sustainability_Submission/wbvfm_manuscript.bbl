@@ -90,4 +90,16 @@ Athey, S.; Imbens, G.
 \newblock {\em arXiv:1504.01132 [stat]} {\bf 2015}.
 \newblock arXiv: 1504.01132.
 
+\bibitem[Corrado and Fingleton(2012)]{corrado2012economics}
+Corrado, L.; Fingleton, B.
+\newblock Where is the economics in spatial econometrics?
+\newblock {\em Journal of Regional Science} {\bf 2012}, {\em 52},~210--239.
+
+\bibitem[Hansen \em{et~al.}(2013)Hansen, Potapov, Moore, Hancher, Turubanova,
+  Tyukavina, Thau, Stehman, Goetz, Loveland, et~al.]{hansen2013high}
+Hansen, M.C.; Potapov, P.V.; Moore, R.; Hancher, M.; Turubanova, S.; Tyukavina,
+  A.; Thau, D.; Stehman, S.; Goetz, S.; Loveland, T.; others.
+\newblock High-resolution global maps of 21st-century forest cover change.
+\newblock {\em Science} {\bf 2013}, {\em 342},~850--853.
+
 \end{thebibliography}

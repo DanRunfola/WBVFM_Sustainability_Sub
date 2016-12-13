@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.3)  31 OCT 2016 09:50
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.3.3)  13 DEC 2016 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -905,8 +905,13 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 98.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 98.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 98.
 
+Underfull \hbox (badness 1331) in paragraph at lines 98--98
+ \T1/ppl/m/n/10 to il-lus-trate the ge-o-graphic vari-a-tion in ap-par-ent ef-f
+ec-tive-ness of en-vi-ron-men-tal safe-guards
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 98.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -944,58 +949,58 @@ Underfull \hbox (badness 2573) in paragraph at lines 176--177
 of ob-ser-va-tion within the
  []
 
-[4] <pre_avg_NDVI_max_full.png, id=109, 450.68375pt x 366.36874pt>
+[4] [5] <pre_avg_NDVI_max_full.png, id=116, 450.68375pt x 366.36874pt>
 File: pre_avg_NDVI_max_full.png Graphic file (type png)
 
 <use pre_avg_NDVI_max_full.png>
-Package pdftex.def Info: pre_avg_NDVI_max_full.png used on input line 210.
+Package pdftex.def Info: pre_avg_NDVI_max_full.png used on input line 242.
 (pdftex.def)             Requested size: 199.73708pt x 162.37112pt.
- [5]
-<result_disag.png, id=117, 481.8pt x 481.8pt>
+ <result_disag.png, id=117, 481.8pt x 481.8pt>
 File: result_disag.png Graphic file (type png)
- <use result_disag.png>
-Package pdftex.def Info: result_disag.png used on input line 217.
+
+<use result_disag.png>
+Package pdftex.def Info: result_disag.png used on input line 249.
 (pdftex.def)             Requested size: 199.73708pt x 199.73741pt.
- [6 <./pre_avg_NDVI_max_full.png> <./result_disag.png (PNG copy)>]
-Underfull \hbox (badness 1454) in paragraph at lines 236--237
+ [6 <./pre_avg_NDVI_max_full.png>] [7 <./result_disag.png (PNG copy)>] [8]
+Underfull \hbox (badness 1454) in paragraph at lines 275--276
 []\T1/ppl/m/n/10 Following this, we ar-gue that sub-national data can be help-f
 ul in the iden-ti-fi-ca-tion of
  []
 
-(./wbvfm_manuscript.bbl [7])
+(./wbvfm_manuscript.bbl [9])
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 256.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 295.
  
 AED: lastpage setting LastPage
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
   [] \T1/ppl/m/n/9 2016 by the au-thors. Sub-mit-ted to \T1/ppl/m/it/9 Sus-tain
 -abil-ity \T1/ppl/m/n/9 for pos-si-ble open ac-cess pub-li-ca-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
 \T1/ppl/m/n/9 un-der the terms and con-di-tions of the Cre-ative Com-mons At-tr
 i-bu-tion (CC-BY) li-cense
  []
 
-[8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
+[10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
  (./wbvfm_manuscript.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
 Package rerunfilecheck Info: File `wbvfm_manuscript.out' has not changed.
 (rerunfilecheck)             Checksum: E2F08982F537133892230D667C90AC49;863.
  ) 
 Here is how much of TeX's memory you used:
- 13849 strings out of 494985
- 196031 string characters out of 6180357
- 289253 words of memory out of 5000000
- 16773 multiletter control sequences out of 15000+600000
- 50673 words of font info for 114 fonts, out of 8000000 for 9000
+ 13863 strings out of 494985
+ 196265 string characters out of 6180357
+ 293660 words of memory out of 5000000
+ 16780 multiletter control sequences out of 15000+600000
+ 51171 words of font info for 116 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 49i,16n,45p,2026b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,16n,45p,2640b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/aiddata/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk> </home
 /aiddata/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecss0500.600pk>{/usr/share/texl
 ive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts
@@ -1009,10 +1014,10 @@ hare/texlive/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/palatino/uplri8a.pfb>
-Output written on wbvfm_manuscript.pdf (8 pages, 656505 bytes).
+Output written on wbvfm_manuscript.pdf (10 pages, 664406 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
